@@ -15,6 +15,9 @@ Go to [hacktoberfest](https://hacktoberfest.digitalocean.com/) page to register 
 * Create a Readme.md file with your details in it(click create new file,add Readme.md as the name *no back slash*).
 * [Mark Down - md cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
+Example:
+![pull request](https://github.com/fosscellcet/HacktoberFest/blob/master/img/pull.gif)
+
 ## 4: Pull Request
 * Click propose new file.
 * Click create pull request.
