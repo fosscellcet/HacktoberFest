@@ -13,6 +13,7 @@ Go to [hacktoberfest](https://hacktoberfest.digitalocean.com/) page to register 
 * Just visit our repo [here](https://github.com/fosscellcet/HacktoberFest).
 * Add a folder in your name.(click create new file,add your name with a slash at the end).
 * Create a Readme.md file with your details in it(click create new file,add Readme.md as the name *no back slash*).
+* Example : click create new file. Enter "yourname"/README.md in the name. Add your content.
 * [Mark Down - md cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 Example:
