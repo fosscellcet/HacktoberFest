@@ -13,8 +13,8 @@ Go to [hacktoberfest](https://hacktoberfest.digitalocean.com/) page to register 
 ## 3:Contribute to our repo
 * Just visit our repo [here](https://github.com/fosscellcet/HacktoberFest).
 * Add a folder in your name.(click create new file,add your name with a slash at the end).
-* Create a Readme.md file with your details in it(click create new file,add Readme.md as the name *no back slash*).
-* Example : click create new file. Enter "yourName"/README.md in the name. Add your content.
+* Create a Readme.md file with your details in it(click create new file, add Readme.md as the name *no back slash*).
+* Example : click create new file (To keep things clean, try to do it inside the 2019 folder). Enter "2019/yourName"/README.md in the name. Add your content into the folder/file.
 * [Mark Down - md cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 Example:
