@@ -8,24 +8,24 @@ trap = input()
 
 listString = string.split('.')
 
-finalList  = []
-for i in listString:
-    tempList = i.split(' ')
+finalList1  = []
+for j in listString:
+    tempList = j.split(' ')
     st = []
     en = []
 
     count = 0
-    for j in tempList:
+    for i in tempList:
         count = count+1
         if(len(tempList) - count<3):
-            st.append(j)
+            st.append(i)
 
         else:
-            en.append(j)
+            en.append(i)
 
-    finalList.append(' '.join(st+en))
+    finalList1.append(' '.join(st+en))
 
-finalString = '.'.join(finalList)
+finalString1 = '.'.join(finalList1)
 
-print(finalString)
+print(finalString1)
 
